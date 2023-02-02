@@ -92,7 +92,7 @@ tableBody.addEventListener("click", (e) => {
       <div
         class="alert alert-success w-50 d-flex justify-content-between"
         role="alert">
-        <span>Harcamayı başarıyla sildiniz!</span>
+        <span>Spend Succesfully Deleted!</span>
         <button
           type="button"
           class="btn-close"
